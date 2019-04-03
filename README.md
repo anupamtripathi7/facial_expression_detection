@@ -1,5 +1,5 @@
 # facial_expression_detection
-Detection of facial expression using 3 techniques 
+Detection of facial expression using 3 techniques.
 
 Facial expressions are one of the most important behavioral
 measures for emotion recognition. Expressions can tell a lot
